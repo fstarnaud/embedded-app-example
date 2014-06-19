@@ -1,3 +1,7 @@
+---
+layout: index
+---
+
 # Shopify Embedded Application Example
 
 This is an example application for building Shopify Embedded Applications. Your application credentials need to have embedded access make see this example work locally.
