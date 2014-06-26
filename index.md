@@ -33,4 +33,4 @@ You will be prompted to install the application and will be redirected to the em
 
 ## License
 
-Unless otherwise noted, all code is released under the [MIT-LICENSE](http://opensource.org/licenses/MIT).
+Copyright (c) 2013 Shopify. Released under the [MIT-LICENSE](http://opensource.org/licenses/MIT).
