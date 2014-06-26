@@ -2,13 +2,9 @@
 layout: index
 ---
 
-# Shopify Embedded Application Example
+Your application credentials need to have embedded access make see this example work locally. The example uses Ruby on Rails as a backend framework but the Shopify Embedded API is JavaScript based, so it is backend language/framework agnostic. Use this as a reference.
 
-This is an example application for building Shopify Embedded Applications. Your application credentials need to have embedded access make see this example work locally.
-
-The example uses Ruby on Rails as a backend framework but the Shopify Embedded API is JavaScript based, so it is backend language/framework agnostic. Use this as a reference.
-
-# Setting up this application
+## Installation
 
 Clone the repo from git:
 
@@ -35,8 +31,6 @@ To install the application on your dev-shop go to:
 
 You will be prompted to install the application and will be redirected to the embedded Shopify environment once installed.
 
-# Documentation
+## License
 
-The documentation on how to use the `ShopifyApp` Javascript file can be found here:
-
-http://docs.shopify.com/embedded-app-sdk
+Unless otherwise noted, all code is released under the [MIT-LICENSE](http://opensource.org/licenses/MIT).
